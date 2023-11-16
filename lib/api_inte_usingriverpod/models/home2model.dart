@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 class Home2Model {
   int postId;
   int id;
@@ -20,4 +22,12 @@ class Home2Model {
         email: json['email'],
         body: json['body'],
       );
+}
+
+List<Home2Model> home2ModelFromJson(String str) {
+  return List<Home2Model>.from(
+    json.decode(str).map(
+          (e) => Home2Model.fromMap(e),
+        ),
+  );
 }
