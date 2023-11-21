@@ -1,5 +1,5 @@
 import 'package:http/http.dart' as http;
-import 'package:state_managment/api_inte_usingriverpod/models/home1model.dart';
+import 'package:state_managment/api_inte_usingriverpod/futureprovider/models/home1model.dart';
 import 'package:state_managment/api_integration/utilities/urls4.dart';
 
 class Home1Service {

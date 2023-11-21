@@ -1,6 +1,6 @@
 import 'package:http/http.dart' as http;
-import 'package:state_managment/api_inte_usingriverpod/models/home3model.dart';
-import 'package:state_managment/api_inte_usingriverpod/utils/url_home3.dart';
+import 'package:state_managment/api_inte_usingriverpod/futureprovider/models/home3model.dart';
+import 'package:state_managment/api_inte_usingriverpod/futureprovider/utils/url_home3.dart';
 
 class Home3Services {
   static final http.Client _client = http.Client();

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:state_managment/api_inte_usingriverpod/provider/home4_provider.dart';
+import 'package:state_managment/api_inte_usingriverpod/futureprovider/provider/home4_provider.dart';
 
 class Home4 extends ConsumerWidget {
   const Home4({super.key});
