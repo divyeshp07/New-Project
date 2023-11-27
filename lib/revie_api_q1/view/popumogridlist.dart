@@ -8,7 +8,7 @@ class PopuMoGridlist extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        toolbarHeight: 80,
+        toolbarHeight: 81,
         elevation: 0,
         leading: IconButton(
             onPressed: () {

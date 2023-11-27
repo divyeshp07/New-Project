@@ -167,7 +167,7 @@ class MovieApp extends ConsumerWidget {
             const MovieCard(),
             Padding(
               padding: const EdgeInsets.only(
-                  left: 15, right: 15, top: 20, bottom: 15),
+                  left: 15, right: 15, top: 19, bottom: 15),
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [

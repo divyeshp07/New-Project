@@ -58,7 +58,7 @@ class UpcomMoGridlist extends StatelessWidget {
               Container(
                 child: Text(
                   'daTAGHSDHSHDLHGDKJA',
-                  style: TextStyle(fontSize: 15),
+                  style: TextStyle(fontSize: 14),
                 ),
               ),
             ],

@@ -25,7 +25,7 @@ class FavorateMovielist extends StatelessWidget {
                 height: 200,
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(22),
-                  color: Colors.black45,
+                  color: Colors.black38,
                 ),
                 child: Row(
                   children: [

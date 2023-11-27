@@ -12,7 +12,7 @@ class MoviecardInnerView extends StatelessWidget {
             width: double.infinity,
             height: 500,
             decoration: const BoxDecoration(
-                color: Colors.amber,
+                color: Colors.green,
                 borderRadius: BorderRadius.only(
                     bottomLeft: Radius.circular(50),
                     bottomRight: Radius.circular(50))),

@@ -8,7 +8,7 @@ class LogoNetflix extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // for automatically next page
-    Future.delayed(const Duration(seconds: 4), () {
+    Future.delayed(const Duration(seconds: 5), () {
       Navigator.of(context)
           .pushReplacement(MaterialPageRoute(builder: (_) => MovieApp()));
     });
