@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
-import 'package:state_managment/revie_api_q1/view/movie_screen.dart';
+import 'package:state_managment/netflix_api_q1/view/movie_screen.dart';
 
 class LogoNetflix extends StatelessWidget {
   const LogoNetflix({super.key});
